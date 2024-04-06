@@ -8,13 +8,16 @@
 ### Installation Steps [(Mac)](InstallationSteps(Mac))
 ### Installation Steps [(Windows)](InstallationSteps(Windows))
 
-## [step-by-step tutorials](step-by-steptutorials)
+## The Basics
+# description
+
+## [Step-by-Step Tutorials](step-by-steptutorials)
+### description
 
 
 ## troubleshooting tips
-### Connection Issues
-### Debugging 
-### Loop and Condition Errors
+### description
+
 
 ## best practices
 waretsrdh
