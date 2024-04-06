@@ -9,9 +9,7 @@
 ### Installation Steps [(Windows)](InstallationSteps(Windows))
 
 ## [step-by-step tutorials](step-by-step tutorials)
-### Beginner
-### Normal
-### Advanced
+
 
 ## troubleshooting tips
 ### Connection Issues
