@@ -4,9 +4,9 @@
 
 # 🤖🐍 Learn to think like a programmer while building cool LEGO SPIKE Prime projects. Happy coding!
 
-## Getting Started
-# Instillation Steps (Mac)
-# Instillation Steps (Windows)
+## Getting Started [GettingStarted
+### Instillation Steps (Mac)
+### Instillation Steps (Windows)
 
 ## step-by-step tutorial
 erhtew
