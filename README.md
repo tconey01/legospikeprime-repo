@@ -8,7 +8,7 @@
 ### Installation Steps [(Mac)](InstallationSteps(Mac))
 ### Installation Steps [(Windows)](InstallationSteps(Windows))
 
-## [step-by-step tutorials](step-by-step tutorials)
+## [step-by-step tutorials](step-by-steptutorials)
 
 
 ## troubleshooting tips
