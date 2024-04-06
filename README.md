@@ -8,20 +8,20 @@
 ### Installation Steps [(Mac)](InstallationSteps(Mac))
 ### Installation Steps [(Windows)](InstallationSteps(Windows))
 
-## The Basics
-# description
+## [The Basics]()
+### description
 
 ## [Step-by-Step Tutorials](step-by-steptutorials)
 ### description
 
 
-## troubleshooting tips
+## [Troubleshooting Tips](troubleshootingtips)
 ### description
 
 
-## best practices
-waretsrdh
+## [Best practices]()
+### desciption
 
-## examples
-eryt
+## [Example Projects]()
+### description
 
