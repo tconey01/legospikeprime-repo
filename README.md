@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="![LEGO_SPIKE_Prime (2)](https://github.com/tconey01/legospikeprime-repo/assets/119706185/d89fa0eb-ab0e-41cd-876e-d8f9f3684d9f)
-" alt="Image description" />
-</p>
+![LEGO_SPIKE_Prime (2)](https://github.com/tconey01/legospikeprime-repo/assets/119706185/57541aa3-a0eb-41f1-a89f-007c188684f1)
+
 
 
 
