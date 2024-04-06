@@ -2,20 +2,22 @@
 
 # 🤖🐍  Learn to think like a programmer while building cool LEGO SPIKE Prime projects. Happy coding!
 
+## Table of Contents
+
 1. step-by-step tutorial
 2. troubleshooting tips
 3. best practices
 4. examples
 
-1. step-by-step tutorial
+### step-by-step tutorial
 erhtew
 
-2. troubleshooting tips
+### troubleshooting tips
 trkytrye
 
-3. best practices
+### best practices
 waretsrdh
 
-4. examples
+### examples
 eryt
 
