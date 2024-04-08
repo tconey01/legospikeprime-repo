@@ -1,6 +1,6 @@
 ![LEGO_SPIKE_Prime (2)](https://github.com/tconey01/legospikeprime-repo/assets/119706185/57541aa3-a0eb-41f1-a89f-007c188684f1)
 
-# Whether you’re a beginner or an enthusiast, this page offers step-by-step guidance and searchable code examples. Happy coding! 🚀🔧
+# Happy coding! 🚀🔧
 
 ## [The Fundamentals](TheFundamentals)
 ### New to LEGO SPIKE Prime? Start here:
