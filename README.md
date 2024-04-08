@@ -8,7 +8,7 @@
 ## [The Fundamentals](TheFundamentals)
 ### Before we dive into coding and building, let’s get acquainted with the essential physical components of the LEGO SPIKE Prime kit.
 
-## [Step-by-Step Tutorials](Step-By-Step Tutorials)
+## [Step-by-Step Tutorials](Step-By-StepTutorials)
 ### Follow along, learn, and build confidence.
 
 ## [Troubleshooting Tips](TroubleshootingTips)
