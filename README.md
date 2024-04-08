@@ -13,7 +13,7 @@
 ## **Quick Code Search**
 ### Need a specific code snippet? No problem! Just hit the period key (.) to search this repository.
 
-gif instead of image?
+gif instead of image? how to make image smaller?
 
 | Image                                      | Code Snippet                           |
 |--------------------------------------------|----------------------------------------|
