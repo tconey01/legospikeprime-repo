@@ -11,7 +11,8 @@
 
 | Image                                      | Code Snippet                           |
 |--------------------------------------------|----------------------------------------|
-| !Example 1           | `your_code_here()`                     |
+| ![image](https://github.com/tconey01/legospikeprime-repo/assets/119706185/c7753d20-8fa2-426f-b74f-a9d7996381a7)
+           | `your_code_here()`                     |
 | Brief description of Example 1              | Explanation of the code in this example |
 |                                            |                                        |
 
