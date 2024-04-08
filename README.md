@@ -11,7 +11,7 @@
 ## [Step-by-Step Tutorials](Step-By-StepTutorials)
 ### Follow along, learn, and build confidence.
 
-## [Troubleshooting Tips](TroubleshootingTips)
+## [Troubleshooting Tips](Help()(TroubleshootingTips))
 ### This section holds some troubleshooting tips to keep you on track
 
 ## [Example Projects](ExampleProjects)
