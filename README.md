@@ -17,4 +17,4 @@
 ## [Example Projects](ExampleProjects)
 ### Explore these exciting projects to see what’s possible with Python and LEGO SPIKE Prime
 
-## ""Snapshot & Scripts""
+## *Snapshots & Scripts*
