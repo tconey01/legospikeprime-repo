@@ -5,7 +5,7 @@
 ## [Getting Started](GettingStarted) 
 ### Follow the steps outlined in this guide, and soon you’ll be building and coding your own LEGO robots using Python.
 
-## [The Basics](TheBasics)
+## [The Fundamentals](TheFundamentals)
 ### Before we dive into coding and building, let’s get acquainted with the essential physical components of the LEGO SPIKE Prime kit.
 
 ## [Step-by-Step Tutorials](Step-By-StepTutorials)
