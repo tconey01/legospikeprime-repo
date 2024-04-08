@@ -8,3 +8,10 @@
 
 ## **Quick Code Search**
 ### Need a specific code snippet? No problem! Just hit the period key (.) to search this repository.
+
+| Image                                      | Code Snippet                           |
+|--------------------------------------------|----------------------------------------|
+| !Example 1           | `your_code_here()`                     |
+| Brief description of Example 1              | Explanation of the code in this example |
+|                                            |                                        |
+
