@@ -1,0 +1,17 @@
+<table>
+  <tr>
+    <th>Header A</th>
+    <th>Header B</th>
+    <th>Header C</th>
+  </tr>
+  <tr>
+    <td>Content 1A</td>
+    <td>Content 1B</td>
+    <td>Content 1C</td>
+  </tr>
+  <tr>
+    <td>Content 2A</td>
+    <td>Content 2B</td>
+    <td>Content 2C</td>
+  </tr>
+</table>
