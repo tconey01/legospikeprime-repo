@@ -28,19 +28,19 @@
 
 | Distance sensor                           | Code Snippet                           |
 |---------------------------------|----------------------------------------|
-| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/c7753d20-8fa2-426f-b74f-a9d7996381a7" width="500" height="400"> |       `from hub import color_sensor`              |
+| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/9d6b0a5b-4426-4bf6-abd2-97cd5b9b8e7f" width="500" height="400"> |       `from hub import color_sensor`              |
 | Brief description of Example 1              | Explanation of the code in this example |
 |                                             |                                         |
 
 | Hub                           | Code Snippet                           |
 |---------------------------------|----------------------------------------|
-| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/c7753d20-8fa2-426f-b74f-a9d7996381a7" width="500" height="400"> |       `from hub import color_sensor`              |
+| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/d3353905-bfcd-4098-b764-7fb7994c7549" width="500" height="400"> |       `from hub import color_sensor`              |
 | Brief description of Example 1              | Explanation of the code in this example |
 |                                             |                                         |
 
 | Motors                           | Code Snippet                           |
 |---------------------------------|----------------------------------------|
-| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/c7753d20-8fa2-426f-b74f-a9d7996381a7" width="500" height="400"> |       `from hub import color_sensor`              |
+| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/a056f8a4-ca28-403a-b659-dbbf0b231f53" width="500" height="400"> |       `from hub import color_sensor`              |
 | Brief description of Example 1              | Explanation of the code in this example |
 |                                             |                                         |
 
