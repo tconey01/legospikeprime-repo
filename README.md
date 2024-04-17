@@ -40,7 +40,7 @@
 
 | Motors                           | Code Snippet                           |
 |---------------------------------|----------------------------------------|
-| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/a056f8a4-ca28-403a-b659-dbbf0b231f53" width="500" height="400"> |       `from hub import color_sensor`              |
+| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/edbdae6f-0f32-4390-9b37-5ef9d69e2463" width="500" height="400"> |       `from hub import color_sensor`              |
 | Brief description of Example 1              | Explanation of the code in this example |
 |                                             |                                         |
 
