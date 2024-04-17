@@ -22,7 +22,7 @@
 
 | Force sensor                          | Code Snippet                           |
 |---------------------------------|----------------------------------------|
-| <img src="[https://github.com/tconey01/legospikeprime-repo/assets/119706185/c7753d20-8fa2-426f-b74f-a9d7996381a7](https://www.tibot.es/417-large_default/sensor-de-fuerza-spike-prime-lego-education.jpg)" width="500" height="400"> |       `from hub import color_sensor`              |
+| <img src="![image](https://github.com/tconey01/legospikeprime-repo/assets/119706185/95f8b808-f811-4a81-9804-e810ecf09ea1)" width="500" height="400"> |       `from hub import color_sensor`              |
 | Brief description of Example 1              | Explanation of the code in this example |
 |                                             |                                         |
 
