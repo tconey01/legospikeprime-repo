@@ -16,6 +16,6 @@
 
 | Image                           | Code Snippet                           |
 |---------------------------------|----------------------------------------|
-| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/c7753d20-8fa2-426f-b74f-a9d7996381a7" width="100" height="100"> |  `from hub import color_sensor`              |
+| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/c7753d20-8fa2-426f-b74f-a9d7996381a7" width="300" height="200"> |  `from hub import color_sensor`              |
 | Brief description of Example 1              | Explanation of the code in this example |
 |                                             |                                         |
