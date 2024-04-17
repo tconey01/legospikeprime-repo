@@ -22,7 +22,7 @@
 
 | Force sensor                          | Code Snippet                           |
 |---------------------------------|----------------------------------------|
-| <img src="![image](https://github.com/tconey01/legospikeprime-repo/assets/119706185/95f8b808-f811-4a81-9804-e810ecf09ea1)" width="500" height="400"> |       `from hub import color_sensor`              |
+| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/95f8b808-f811-4a81-9804-e810ecf09ea1" width="500" height="400"> |       `from hub import color_sensor`              |
 | Brief description of Example 1              | Explanation of the code in this example |
 |                                             |                                         |
 
