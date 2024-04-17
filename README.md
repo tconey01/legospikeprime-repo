@@ -14,8 +14,34 @@
 ### Need a specific code snippet? No problem! Just hit the period key (.) to search this repository.
 
 
-| Image                           | Code Snippet                           |
+| Color sensor                           | Code Snippet                           |
 |---------------------------------|----------------------------------------|
-| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/c7753d20-8fa2-426f-b74f-a9d7996381a7" width="500" height="400"> |  `from hub import color_sensor`              |
+| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/c7753d20-8fa2-426f-b74f-a9d7996381a7" width="500" height="400"> |       `from hub import color_sensor`              |
 | Brief description of Example 1              | Explanation of the code in this example |
 |                                             |                                         |
+
+| Force sensor                          | Code Snippet                           |
+|---------------------------------|----------------------------------------|
+| <img src="[https://github.com/tconey01/legospikeprime-repo/assets/119706185/c7753d20-8fa2-426f-b74f-a9d7996381a7](https://www.tibot.es/417-large_default/sensor-de-fuerza-spike-prime-lego-education.jpg)" width="500" height="400"> |       `from hub import color_sensor`              |
+| Brief description of Example 1              | Explanation of the code in this example |
+|                                             |                                         |
+
+| Distance sensor                           | Code Snippet                           |
+|---------------------------------|----------------------------------------|
+| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/c7753d20-8fa2-426f-b74f-a9d7996381a7" width="500" height="400"> |       `from hub import color_sensor`              |
+| Brief description of Example 1              | Explanation of the code in this example |
+|                                             |                                         |
+
+| Hub                           | Code Snippet                           |
+|---------------------------------|----------------------------------------|
+| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/c7753d20-8fa2-426f-b74f-a9d7996381a7" width="500" height="400"> |       `from hub import color_sensor`              |
+| Brief description of Example 1              | Explanation of the code in this example |
+|                                             |                                         |
+
+| Motors                           | Code Snippet                           |
+|---------------------------------|----------------------------------------|
+| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/c7753d20-8fa2-426f-b74f-a9d7996381a7" width="500" height="400"> |       `from hub import color_sensor`              |
+| Brief description of Example 1              | Explanation of the code in this example |
+|                                             |                                         |
+
+                                           
