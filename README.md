@@ -11,7 +11,7 @@
 #### Your launchpad for exciting LEGO SPIKE Prime projects. Let the inspiration flow!
 
 ## **Quick Code Search**
-### Need a specific code snippet? No problem! Just hit the period key (.) to search this repository.
+### tttttttttttttttttttttttttttttt
 
 
 | Color sensor                           | Code Snippet                           |
