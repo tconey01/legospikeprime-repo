@@ -16,7 +16,7 @@
 
 | Color sensor                           | Code Snippet                           |
 |---------------------------------|----------------------------------------|
-| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/c7753d20-8fa2-426f-b74f-a9d7996381a7" width="500" height="400"> |       `from hub import color_sensor`              |
+| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/e2c58acf-42b5-4f26-a2e4-98a8ce824c00" width="500" height="400"> |       `from hub import color_sensor`              |
 | Brief description of Example 1              | Explanation of the code in this example |
 |                                             |                                         |
 
