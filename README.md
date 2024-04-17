@@ -13,9 +13,8 @@
 ## **Quick Code Search**
 ### Need a specific code snippet? No problem! Just hit the period key (.) to search this repository.
 
-gif instead of image? how to make image smaller? period wont work in read me...table in page(html?)?
 
-| Image                                      | Code Snippet                           |
+| Image                           | Code Snippet                           |
 |--------------------------------------------|----------------------------------------|
 | ![image](https://github.com/tconey01/legospikeprime-repo/assets/119706185/c7753d20-8fa2-426f-b74f-a9d7996381a7) |            `from hub import color_sensor`              |
 | Brief description of Example 1              | Explanation of the code in this example |
