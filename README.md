@@ -14,36 +14,92 @@
 
 
 
-| Color sensor                           | Code Snippet                           |
+| Color sensor                    | Code Description                       |
 |---------------------------------|----------------------------------------|
-| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/b604e2e9-c6cb-4ad3-827a-2c2206158ac3" width="500" height="400"> |       `import runloop`
-`import color_sensor` from hub import port import color |
+| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/b604e2e9-c6cb-4ad3-827a-2c2206158ac3" width="500" height="400"> |    This is code    |
 
-    
+```python
+import runloop
+import force_sensor
+from hub import port
 
+async def read_force():
+    while True:  
+        force_detected = force_sensor.force(port.A)
+        if force_detected is not None:
+            print(f"\rForce detected: {force_detected}", end="")
+        else:
+            print("\rNo force detected", end="")
 
-| Force sensor                          | Code Snippet                           |
+runloop.run(read_force())
+
+```
+
+| Force sensor                    | Code Description                       |
 |---------------------------------|----------------------------------------|
-| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/95f8b808-f811-4a81-9804-e810ecf09ea1" width="500" height="400"> |      `from hub import color_sensor` |
-| Brief description of Example 1              | Explanation of the code in this example |
-|                                             |                                         |
+| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/95f8b808-f811-4a81-9804-e810ecf09ea1" width="500" height="400"> |    This is code    |
 
-| Distance sensor                           | Code Snippet                           |
-|---------------------------------|----------------------------------------|
-| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/9d6b0a5b-4426-4bf6-abd2-97cd5b9b8e7f" width="500" height="400"> |       `from hub import color_sensor`              |
-| Brief description of Example 1              | Explanation of the code in this example |
-|                                             |                                         |
+```python
+import runloop
+import force_sensor
+from hub import port
 
-| Hub                           | Code Snippet                           |
-|---------------------------------|----------------------------------------|
-| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/d3353905-bfcd-4098-b764-7fb7994c7549" width="500" height="400"> |       `from hub import color_sensor`              |
-| Brief description of Example 1              | Explanation of the code in this example |
-|                                             |                                         |
+async def read_force():
+    while True:  
+        force_detected = force_sensor.force(port.A)
+        if force_detected is not None:
+            print(f"\rForce detected: {force_detected}", end="")
+        else:
+            print("\rNo force detected", end="")
 
-| Motors                           | Code Snippet                           |
+runloop.run(read_force())
+
+```
+
+
+| Distance sensor                 | Code Description                       |
 |---------------------------------|----------------------------------------|
-| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/edbdae6f-0f32-4390-9b37-5ef9d69e2463" width="500" height="400"> |       `from hub import color_sensor`              |
-| Brief description of Example 1              | Explanation of the code in this example |
-|                                             |                                         |
+| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/9d6b0a5b-4426-4bf6-abd2-97cd5b9b8e7f" width="500" height="400"> |     This is code    |
+
+```python
+import runloop
+import distance_sensor
+from hub import port
+
+async def read_distance():
+    while True:  
+        distance = distance_sensor.distance(port.C)
+        if distance is not None and distance >= 1:
+            print(f"Distance: {distance} in")
+            pixels = [100] * 4
+            distance_sensor.show(port.C, pixels)
+            await runloop.sleep_ms(1000)
+        
+        else:
+            print("No object detected")
+            distance_sensor.clear(port.C)  
+            await runloop.sleep_ms(1000)
+
+runloop.run(read_distance())
+
+```
+
+
+| Hub                             | Code Description                       |
+|---------------------------------|----------------------------------------|
+| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/d3353905-bfcd-4098-b764-7fb7994c7549" width="500" height="400"> |      This is code    |
+
+'''
+
+'''
+
+| Motors                           | Code Description                       |
+|--------------------------------- |----------------------------------------|
+| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/edbdae6f-0f32-4390-9b37-5ef9d69e2463" width="500" height="400"> |   This is code       |
+
+'''
+
+'''
+
 
                                            
