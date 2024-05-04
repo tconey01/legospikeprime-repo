@@ -19,19 +19,25 @@
 | <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/b604e2e9-c6cb-4ad3-827a-2c2206158ac3" width="500" height="400"> |    This is code    |
 
 ```python
-import runloop
-import force_sensor
+import runloop 
+import color_sensor
 from hub import port
+import color
 
-async def read_force():
-    while True:  
-        force_detected = force_sensor.force(port.A)
-        if force_detected is not None:
-            print(f"\rForce detected: {force_detected}", end="")
+
+async def check_color():
+    while True:  # This will create an infinite loop
+        color_detected = color_sensor.color(port.B)
+        if color_detected is not None:
+            print(f"Color detected: {color_detected}")
+            await runloop.sleep_ms(2000)
         else:
-            print("\rNo force detected", end="")
+            print("No color detected")
 
-runloop.run(read_force())
+        await runloop.sleep_ms(2000)  # wait for 4 seconds
+
+runloop.run(check_color())`
+
 
 ```
 
