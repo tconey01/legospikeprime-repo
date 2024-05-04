@@ -14,9 +14,11 @@
 
 
 
-| Color sensor                    | Code Description                       |
-|---------------------------------|----------------------------------------|
-| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/b604e2e9-c6cb-4ad3-827a-2c2206158ac3" width="500" height="400"> |    This is code    |
+| Color sensor                    |
+|---------------------------------|
+| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/b604e2e9-c6cb-4ad3-827a-2c2206158ac3" width="500" height="400"> |    
+| Code Description                |
+|This code is a simple color detection program that continuously checks for colors using a color sensor connected to port B of a device. If a color is detected, it prints the color name; if no color is detected, it prints "No color detected", and it does this check every 4 seconds.    |
 
 ```python
 import runloop 
@@ -41,9 +43,11 @@ runloop.run(check_color())`
 
 ```
 
-| Force sensor                    | Code Description                       |
-|---------------------------------|----------------------------------------|
-| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/95f8b808-f811-4a81-9804-e810ecf09ea1" width="500" height="400"> |    This is code    |
+| Force sensor                    | 
+|---------------------------------|
+| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/95f8b808-f811-4a81-9804-e810ecf09ea1" width="500" height="400"> |  
+|Code Description|
+|This code is a simple force detection program that continuously checks for force using a force sensor connected to port A of a device. If force is detected, it prints the force value; if no force is detected, it prints “No force detected”, and it does this check in an infinite loop.    |
 
 ```python
 import runloop
@@ -63,9 +67,11 @@ runloop.run(read_force())
 ```
 
 
-| Distance sensor                 | Code Description                       |
-|---------------------------------|----------------------------------------|
-| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/9d6b0a5b-4426-4bf6-abd2-97cd5b9b8e7f" width="500" height="400"> |     This is code    |
+| Distance sensor                 | 
+|---------------------------------|
+| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/9d6b0a5b-4426-4bf6-abd2-97cd5b9b8e7f" width="500" height="400"> |     
+|Code Description|
+|This code is a distance sensor program that continuously measures and displays the distance of an object from the sensor. If no object is detected, it clears the sensor reading and waits for a second before repeating the process.|
 
 ```python
 import runloop
