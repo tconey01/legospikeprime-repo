@@ -17,24 +17,23 @@
 | Color sensor                           | Code Snippet                           |
 |---------------------------------|----------------------------------------|
 | <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/b604e2e9-c6cb-4ad3-827a-2c2206158ac3" width="500" height="400">
-|       `import runloop 
-        import color_sensor
-        from hub import port
-        import color
+|  'import runloop
+    import color_sensor
+    from hub import port
+    import color
 
+    async def check_color():
+       while True:  # This will create an infinite loop
+          color_detected = color_sensor.color(port.B)
+          if color_detected is not None:
+              print(f"Color detected: {color_detected}")
+              await runloop.sleep_ms(2000)
+          else:
+              print("No color detected")
 
-async def check_color():
-    while True:  # This will create an infinite loop
-        color_detected = color_sensor.color(port.B)
-        if color_detected is not None:
-            print(f"Color detected: {color_detected}")
-            await runloop.sleep_ms(2000)
-        else:
-            print("No color detected")
+          await runloop.sleep_ms(2000)  # wait for 4 seconds
 
-        await runloop.sleep_ms(2000)  # wait for 4 seconds
-
-runloop.run(check_color())`              |
+    runloop.run(check_color())'                                                    |
 | Brief description of Example 1              | Explanation of the code in this example |
 |                                             |                                         |
 
