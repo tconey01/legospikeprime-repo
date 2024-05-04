@@ -14,14 +14,13 @@
 
 
 
-| Color sensor                           | Code Snippet                            |
-|----------------------------------------|-----------------------------------------|
-| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/b604e2e9-c6cb-4ad3-827a-2c2206158ac3" width="500" height="400"> |
-`import runloop
+| Color sensor | Code Snippet | Brief description of Example 1 | Explanation of the code in this example |
+|--------------|--------------|--------------------------------|----------------------------------------|
+| !Image | ```python
+import runloop
 import color_sensor
 from hub import port
 import color
-
 
 async def check_color():
     while True:  # This will create an infinite loop
@@ -34,10 +33,9 @@ async def check_color():
 
         await runloop.sleep_ms(2000)  # wait for 4 seconds
 
-runloop.run(check_color())`              |
-| Brief description of Example 1         | Explanation of the code in this example |
-|                                        |                                         |
-                        
+runloop.run(check_color())
+``` | This example demonstrates how to use a color sensor with a run loop in Python. | The code initializes a color sensor on port B. It then enters an infinite loop where it checks the color detected by the sensor every 2 seconds. If a color is detected, it prints the color and waits for another 2 seconds before checking again. |
+
 
     
 
