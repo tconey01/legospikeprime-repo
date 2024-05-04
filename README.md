@@ -102,11 +102,18 @@ runloop.run(read_distance())
 |---------------------------------|
 | <p align="center"><img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/d3353905-bfcd-4098-b764-7fb7994c7549" width="500" height="400"></p> |     
 |Code Description|
-|This is code    |
+|This code displays different images on a device’s light matrix based on button presses. If the left button is pressed, it shows a happy image, and if the right button is pressed, it shows a sad image.    |
 
 ```python
+from hub import light_matrix
+from hub import button
 
-code?
+while True:
+    if button.pressed(button.LEFT):
+        light_matrix.show_image(light_matrix.IMAGE_HAPPY)
+
+    elif button.pressed(button.RIGHT):
+        light_matrix.show_image(light_matrix.IMAGE_SAD)
 
 ```
 
