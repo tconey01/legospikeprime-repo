@@ -22,12 +22,28 @@
                         
 
     
-| Brief description of Example 1              | Explanation of the code in this example |
-|                                             |                                         |
+
 
 | Force sensor                          | Code Snippet                           |
 |---------------------------------|----------------------------------------|
-| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/95f8b808-f811-4a81-9804-e810ecf09ea1" width="500" height="400"> |       `from hub import color_sensor`              |
+| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/95f8b808-f811-4a81-9804-e810ecf09ea1" width="500" height="400"> |       `import runloop
+import color_sensor
+from hub import port
+import color
+
+
+async def check_color():
+    while True:  # This will create an infinite loop
+        color_detected = color_sensor.color(port.B)
+        if color_detected is not None:
+            print(f"Color detected: {color_detected}")
+            await runloop.sleep_ms(2000)
+        else:
+            print("No color detected")
+
+        await runloop.sleep_ms(2000)  # wait for 4 seconds
+
+runloop.run(check_color())`              |
 | Brief description of Example 1              | Explanation of the code in this example |
 |                                             |                                         |
 
