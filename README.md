@@ -95,17 +95,21 @@ runloop.run(read_distance())
 |---------------------------------|----------------------------------------|
 | <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/d3353905-bfcd-4098-b764-7fb7994c7549" width="500" height="400"> |      This is code    |
 
-'''
+```python
 
-'''
+code?
+
+```
 
 | Motors                           | Code Description                       |
 |--------------------------------- |----------------------------------------|
-| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/edbdae6f-0f32-4390-9b37-5ef9d69e2463" width="500" height="400"> |   This is code       |
+| <img src="https://github.com/tconey01/legospikeprime-repo/assets/119706185/1aa642f5-e84d-4d56-bea8-8f86f3b7eb92" width="500" height="400"> |   This is code       |
 
-'''
+```python
 
-'''
+code?
+
+```
 
 
                                            
